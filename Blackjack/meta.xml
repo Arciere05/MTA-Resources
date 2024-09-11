@@ -1,0 +1,63 @@
+<meta>
+    <info author="Arciere" version="1.0.0" type="script" name="Blackjack" />
+    <script src="blackjack.lua" type="client" />
+    <script src="client.lua" type="client" />
+    <script src="server.lua" type="server" />
+    <include resource="dgs" />
+    <file src="blackjackMarkers.xml"/>
+    <file src='images/10_Clubs.png' />
+    <file src='images/10_Diamonds.png' />
+    <file src='images/10_Hearts.png' />
+    <file src='images/10_Spades.png' />
+    <file src='images/2_Clubs.png' />
+    <file src='images/2_Diamonds.png' />
+    <file src='images/2_Hearts.png' />
+    <file src='images/2_Spades.png' />
+    <file src='images/3_Clubs.png' />
+    <file src='images/3_Diamonds.png' />
+    <file src='images/3_Hearts.png' />
+    <file src='images/3_Spades.png' />
+    <file src='images/4_Clubs.png' />
+    <file src='images/4_Diamonds.png' />
+    <file src='images/4_Hearts.png' />
+    <file src='images/4_Spades.png' />
+    <file src='images/5_Clubs.png' />
+    <file src='images/5_Diamonds.png' />
+    <file src='images/5_Hearts.png' />
+    <file src='images/5_Spades.png' />
+    <file src='images/6_Clubs.png' />
+    <file src='images/6_Diamonds.png' />
+    <file src='images/6_Hearts.png' />
+    <file src='images/6_Spades.png' />
+    <file src='images/7_Clubs.png' />
+    <file src='images/7_Diamonds.png' />
+    <file src='images/7_Hearts.png' />
+    <file src='images/7_Spades.png' />
+    <file src='images/8_Clubs.png' />
+    <file src='images/8_Diamonds.png' />
+    <file src='images/8_Hearts.png' />
+    <file src='images/8_Spades.png' />
+    <file src='images/9_Clubs.png' />
+    <file src='images/9_Diamonds.png' />
+    <file src='images/9_Hearts.png' />
+    <file src='images/9_Spades.png' />
+    <file src='images/A_Clubs.png' />
+    <file src='images/A_Diamonds.png' />
+    <file src='images/A_Hearts.png' />
+    <file src='images/A_Spades.png' />
+    <file src='images/background.png' />
+    <file src='images/D_B.png' />
+    <file src='images/J_Clubs.png' />
+    <file src='images/J_Diamonds.png' />
+    <file src='images/J_Hearts.png' />
+    <file src='images/J_Spades.png' />
+    <file src='images/K_Clubs.png' />
+    <file src='images/K_Diamonds.png' />
+    <file src='images/K_Hearts.png' />
+    <file src='images/K_Spades.png' />
+    <file src='images/M_B.png' />
+    <file src='images/Q_Clubs.png' />
+    <file src='images/Q_Diamonds.png' />
+    <file src='images/Q_Hearts.png' />
+    <file src='images/Q_Spades.png' />
+</meta>
