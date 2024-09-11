@@ -1,0 +1,6 @@
+<config>
+    <npcConfig>
+        <location x="1957.0443115234" y="695.24755859375" z="10.8203125" heading="90" skin="47" />
+        <location x="1957.0443115234" y="691.24755859375" z="10.8203125" heading="90" skin="300" />
+    </npcConfig>
+</config>
