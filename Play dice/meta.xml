@@ -1,0 +1,8 @@
+<meta>
+    <info author="Arciere" version="1.0.0" type="script" name="Play Dice" />
+    <script src="server.lua" type="server" />
+    <script src="client.lua" type="client" />
+    <file src="config.xml" />
+
+    <include resource="dgs" />
+</meta>
